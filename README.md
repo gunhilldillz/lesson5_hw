@@ -1,3 +1,17 @@
-Create a “cheat sheet” JavaScript file that contains examples of all of the things we learned today, delineated with comments
+Create a “cheat sheet” JavaScript file that contains examples of all of the things we learned today, delineated with comments:
 
-Create a web page with 4 different jQuery events. Have at least one of them be initiated by a click event.
+Variables
+
+Debugging (alerts, comments, the console)
+
+Different data types
+
+Arrays
+
+Testing
+
+Logic
+
+Functions
+
+Write 3 different functions that take input and return something via the console or an alert
