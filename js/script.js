@@ -98,3 +98,33 @@ function getTwoAndCompare (compNames) {
 // call function getTwoAndCompare
 
 getTwoAndCompare();
+
+// declare function getNumeAndMulti
+
+function getNumAndMulti (number) {
+
+	var userNum = prompt("Enter a number");
+	randomNum = Math.random();
+	newNum = userNum * randomNum;
+	console.log ("You entered: " + userNum + ". it was multiplied by: " + randomNum + ". The product of that multiplication is: " + newNum);
+
+}
+
+// call function getTwoAndCompare
+
+getNumAndMulti();
+
+// declare function getTwoNamesAndCombine
+
+function getTwoNamesAndCombine (number) {
+
+	var givenName = prompt("Enter a first name");
+	var lastName = prompt("Enter a last name");
+	var fullName = givenName + " " + lastName;
+	console.log ("You entered the first name:" + givenName + ". And the last name: " + lastName + ". The first and last name combined is:" + fullName);
+
+}
+
+// call function getTwoNamesAndCombine
+
+getTwoNamesAndCombine();
